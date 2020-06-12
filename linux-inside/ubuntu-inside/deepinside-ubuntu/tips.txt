@@ -1,1 +1,2 @@
 444
+Various system level ubuntu tipstricks 
